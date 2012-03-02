@@ -1,3 +1,0 @@
-[distutils.commands]
-upload_sphinx = sphinx_pypi_upload:UploadDoc
-

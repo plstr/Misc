@@ -1,6 +1,0 @@
-include *.py
-include *.rst
-exclude fabfile.py
-recursive-include docs *
-prune docs/_build
-
